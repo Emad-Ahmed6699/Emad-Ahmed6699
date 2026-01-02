@@ -9,7 +9,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=dotnet&logoColor=512BD4)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet&logoColor=512BD4)
 
 ### Technologies
 
